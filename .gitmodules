@@ -13,3 +13,6 @@
 	path = openrestdb/database.js
 	url = git@github.com:miracle-42/database.js.git
 	branch = 2.1
+[submodule "test.subfolder.test_editing_repo"]
+	path = test.subfolder.test_editing_repo
+	url = git@github.com:M42-ACHCH/test.subfolder.test_editing_repo.git
