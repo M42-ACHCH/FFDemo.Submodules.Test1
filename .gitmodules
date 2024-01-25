@@ -1,15 +1,5 @@
-[submodule "forms42.core"]
-	path = forms42.core
-	url = https://github.com/M42-ACHCH/forms42.core.git
-	branch = version-2.1-dev
-[submodule "forms42.generator"]
-	path = forms42.generator
-	url = git@github.com:M42-ACHCH/forms42.generator.git
-[submodule "forms42.demo"]
-	path = forms42.demo
-	url = git@github.com:miracle-42/forms42.demo.git
-	branch = version-2.1
-[submodule "openrestdb/database.js"]
-	path = openrestdb/database.js
-	url = git@github.com:miracle-42/database.js.git
-	branch = 2.1
+[submodule "Test/test.subfolder.test_editing_repo"]
+        path = Test/test.subfolder.test_editing_repo
+        url = git@github.com:M42-ACHCH/test.subfolder.test_editing_repo.git
+        branch = edit_readme
+
