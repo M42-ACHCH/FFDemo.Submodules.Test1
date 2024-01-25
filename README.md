@@ -1,7 +1,8 @@
 # FFDemo.Submodules.Test1
 Dette er en test for sub-modules
 
-Brugbar kommando for clone repository med rette branches:  git clone -b [branche_name] [git_clone_url] --recurse-submodules
+Brugbar kommando for clone af specifik branch på repository med rette sudmodules commits:  
+git clone -b [branche_name] [git_clone_url] --recurse-submodules
 
 Nyttige links:
 
